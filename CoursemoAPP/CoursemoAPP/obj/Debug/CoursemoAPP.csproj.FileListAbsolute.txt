@@ -1,0 +1,15 @@
+C:\Users\Liam Edelman\Documents\School\CS480\CS480_Projects\Project4\CoursemoAPP\CoursemoAPP\bin\Debug\Coursemo.designer.cs
+C:\Users\Liam Edelman\Documents\School\CS480\CS480_Projects\Project4\CoursemoAPP\CoursemoAPP\bin\Debug\Coursemo.dbml
+C:\Users\Liam Edelman\Documents\School\CS480\CS480_Projects\Project4\CoursemoAPP\CoursemoAPP\bin\Debug\Coursemo.dbml.layout
+C:\Users\Liam Edelman\Documents\School\CS480\CS480_Projects\Project4\CoursemoAPP\CoursemoAPP\bin\Debug\Coursemo.mdf
+C:\Users\Liam Edelman\Documents\School\CS480\CS480_Projects\Project4\CoursemoAPP\CoursemoAPP\bin\Debug\Coursemo_log.ldf
+C:\Users\Liam Edelman\Documents\School\CS480\CS480_Projects\Project4\CoursemoAPP\CoursemoAPP\obj\Debug\CoursemoAPP.csprojAssemblyReference.cache
+C:\Users\Liam Edelman\Documents\School\CS480\CS480_Projects\Project4\CoursemoAPP\CoursemoAPP\obj\Debug\CoursemoAPP.Coursemo.resources
+C:\Users\Liam Edelman\Documents\School\CS480\CS480_Projects\Project4\CoursemoAPP\CoursemoAPP\obj\Debug\CoursemoAPP.Properties.Resources.resources
+C:\Users\Liam Edelman\Documents\School\CS480\CS480_Projects\Project4\CoursemoAPP\CoursemoAPP\obj\Debug\CoursemoAPP.csproj.GenerateResource.cache
+C:\Users\Liam Edelman\Documents\School\CS480\CS480_Projects\Project4\CoursemoAPP\CoursemoAPP\obj\Debug\CoursemoAPP.csproj.CoreCompileInputs.cache
+C:\Users\Liam Edelman\Documents\School\CS480\CS480_Projects\Project4\CoursemoAPP\CoursemoAPP\obj\Debug\CoursemoAPP.exe
+C:\Users\Liam Edelman\Documents\School\CS480\CS480_Projects\Project4\CoursemoAPP\CoursemoAPP\obj\Debug\CoursemoAPP.pdb
+C:\Users\Liam Edelman\Documents\School\CS480\CS480_Projects\Project4\CoursemoAPP\CoursemoAPP\bin\Debug\CoursemoAPP.exe.config
+C:\Users\Liam Edelman\Documents\School\CS480\CS480_Projects\Project4\CoursemoAPP\CoursemoAPP\bin\Debug\CoursemoAPP.exe
+C:\Users\Liam Edelman\Documents\School\CS480\CS480_Projects\Project4\CoursemoAPP\CoursemoAPP\bin\Debug\CoursemoAPP.pdb
